@@ -5,6 +5,8 @@ android app to transfer zain sudan services depending on the sim type.
 - choose the type of the gift (weekly or monthly service)
 - click send
 
+the application will automatically send the correct ussd code depends on your choices . 
+
 ## screenshots:
 
 ### photo 1:
